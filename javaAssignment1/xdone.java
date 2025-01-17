@@ -1,5 +1,5 @@
 // Write a program to read user input until user writes XDONE and then show the entered text by the user on commandline
-package java1Assignment;
+package javaAssignment1;
 
 import java.util.ArrayList;
 import java.util.Scanner;

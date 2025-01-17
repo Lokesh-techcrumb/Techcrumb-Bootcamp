@@ -8,7 +8,7 @@
 // Hint: Use Switch statement to act on the menu. Also area and circumference methods should be static
 
 
-package java1Assignment;
+package javaAssignment1;
 
 import java.util.*;
 

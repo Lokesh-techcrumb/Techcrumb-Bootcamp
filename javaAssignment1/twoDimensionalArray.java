@@ -2,7 +2,7 @@
 // sum of all elements of each column
 // sum of all elements of each row
 
-package java1Assignment;
+package javaAssignment1;
 
 import java.util.Scanner;
 

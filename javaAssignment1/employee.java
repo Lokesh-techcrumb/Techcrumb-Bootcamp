@@ -1,4 +1,10 @@
-package java1Assignment;
+// Create a class named Employee with fields firstname,lastname,age and designation. 
+// The class should:
+// have all types of constructors to initialize the object
+// class should also have setter methods to update a particular field
+// Override its toString method to display a meaningful message using all these fields.
+
+package javaAssignment1;
 
 public class employee {
     private String firstName;

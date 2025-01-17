@@ -1,5 +1,5 @@
 //Write a class with FirstName, LastName & age field. Print Firstname, LastName & age using static block, static method & static variable respectively.
-package java1Assignment;
+package javaAssignment1;
 
 public class person {
     static String firstName = "Lokesh";
