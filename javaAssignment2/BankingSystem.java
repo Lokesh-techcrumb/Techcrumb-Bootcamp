@@ -136,7 +136,14 @@ public class BankingSystem {
         try {
             sbi.deductAmount("SBI123", 2000);
             boi.deductAmount("BOI456", 12000);
+
+        } catch (InsufficientAmountException e) {
+            System.err.println(e.getMessage());
+        }
+
+        try {
             icici.deductAmount("ICICI789", 5000);
+            icici.deductAmount("ICICI101", 1000);
         } catch (InsufficientAmountException e) {
             System.err.println(e.getMessage());
         }

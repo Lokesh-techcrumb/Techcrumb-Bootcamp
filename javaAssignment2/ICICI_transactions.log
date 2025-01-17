@@ -1,0 +1,3 @@
+2025-01-17 16:40:39 | Account: ICICI789 | Amount: 5000.00 | Before: 15000.00 | After: 10000.00 | Status: SUCCESS | Reason: 
+2025-01-17 16:41:45 | Account: ICICI789 | Amount: 5000.00 | Before: 15000.00 | After: 10000.00 | Status: SUCCESS | Reason: 
+2025-01-17 16:41:45 | Account: ICICI101 | Amount: 1000.00 | Before: 0.00 | After: 0.00 | Status: FAILURE | Reason: Account does not exist
