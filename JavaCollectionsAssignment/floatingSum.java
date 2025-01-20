@@ -1,4 +1,4 @@
-package JavaCollectionsAssignments;
+package JavaCollectionsAssignment;
 
 import java.util.*;
 
